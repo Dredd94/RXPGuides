@@ -22,6 +22,7 @@
     <Script file="Guides/Mining.lua"/>
     <Script file="Guides/Herbalism.lua"/>
     <Script file="Guides/Skinning.lua"/>
+    <Script file="Guides/Cooking and Fishing.lua"/>
 
     <Script file="Guides/Import.lua"/>
 	
